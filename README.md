@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-##Different Kickstarter Data analyzed and charted with the use of Excel
+## Different Kickstarter Data analyzed and charted with the use of Excel
 
 ---
 
