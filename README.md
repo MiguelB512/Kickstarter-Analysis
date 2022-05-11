@@ -9,7 +9,7 @@ Below is a Bar Chart showing the outcome based on Category
 ---
 
 This is a chart showing the outcome based on subcategory
-![Outcomes Based on Launch Date](https://user-images.githubusercontent.com/60283799/167960315-4cb3cc2b-62ce-4b7a-94a1-60655fdcc7d0.png)
+![Subcategory Statistics](https://user-images.githubusercontent.com/60283799/167960504-fe248c2a-abe1-4784-a78e-c880f5e9ab44.png)
 
 ---
 
