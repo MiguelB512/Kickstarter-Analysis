@@ -2,28 +2,30 @@
 
 ## Overview of Project
 
-### Purpose
+---
+
+  ### Purpose
 
 ---
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date
+  ### Analysis of Outcomes Based on Launch Date
 
-When looking at the this chart, what surprised me was that 
+  When looking at the this chart, what surprised me was that 
 
-### Analysis of Outcomes Based on Goals
+  ### Analysis of Outcomes Based on Goals
 
-### Challenges and Difficulties Encountered
+  ### Challenges and Difficulties Encountered
 
 ---
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+  - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
-- What can you conclude about the Outcomes based on Goals?
+  - What can you conclude about the Outcomes based on Goals?
 
-- What are some limitations of this dataset?
+  - What are some limitations of this dataset?
 
-- What are some other possible tables and/or graphs that we could create?
+  - What are some other possible tables and/or graphs that we could create?
