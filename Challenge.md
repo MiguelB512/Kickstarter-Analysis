@@ -4,17 +4,19 @@
 
 ### Purpose
 
+---
+
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
 
----
-
 When looking at the this chart, what surprised me was that 
---
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
+
+---
 
 ## Results
 
