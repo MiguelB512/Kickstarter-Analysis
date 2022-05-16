@@ -8,7 +8,7 @@
 
 ### Analysis of Outcomes Based on Launch Date
 
---
+---
 
 When looking at the this chart, what surprised me was that 
 --
