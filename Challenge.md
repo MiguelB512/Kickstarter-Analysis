@@ -3,9 +3,7 @@
 ## Overview of Project
 
   ### Purpose
-  This analysis was created to look at and compare different campaigns based on their funding goals and launch dates.
-  With this information, it could be determined what the ideal goal to set would be and roughly when to launch the project
-  for the best outcome. 
+  This analysis was created to look at and compare different campaigns based on their funding goals and launch dates. We     have a client that is looking to launch their own KickStarter project and has requested our help in analyzing similar       past projects. With this information, it could be determined what the ideal goal to set would be and roughly when to       launch the project for the best outcome. 
 
 ---
 
