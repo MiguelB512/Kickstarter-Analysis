@@ -15,7 +15,8 @@
 
   ###  Analysis of Outcomes Based on Launch Date
   
-  (https://github.com/MiguelB512/Kickstarter-Analysis/files/8720292/Kickstarter._Challenge.xlsx)
+  ![Outcomes Based on Goals](https://user-images.githubusercontent.com/60283799/169141457-90e71403-5e26-4bec-b8c8-6366c1dc4f57.png)
+
 
   When looking at the this chart, what surprised me was that the number of successful projects were consistently higher       than failed or canceled. 
   
