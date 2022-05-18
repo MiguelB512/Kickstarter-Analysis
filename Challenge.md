@@ -15,14 +15,17 @@
 
   ###  Analysis of Outcomes Based on Launch Date
   
-  ![Outcomes Based on Goals](https://user-images.githubusercontent.com/60283799/169141457-90e71403-5e26-4bec-b8c8-6366c1dc4f57.png)
+  ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/60283799/169141513-29d44ace-e919-468b-b3de-b1d5530f8f3e.png)
 
 
-  When looking at the this chart, what surprised me was that the number of successful projects were consistently higher       than failed or canceled. 
+  When looking at the this chart, what i noticed was that the number of successful projects were consistently higher       than failed or canceled, which could be a good sign for Louise. 
   
   I also noticed the higher number of "Successful" and "Failed" projects in the middle of the year. Deeper analysis would     ask if that was due to a higher number of campaigns being launched at that time which gives the backer more options, or     if people are just more willing to spend their money around that time of year. 
 
   ### Analysis of Outcomes Based on Goals
+
+![Outcomes Based on Goals](https://user-images.githubusercontent.com/60283799/169143894-d9323164-264d-4221-a47a-1a54b4c1ead9.png)
+
 
   ### Challenges and Difficulties Encountered
 
