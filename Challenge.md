@@ -2,8 +2,6 @@
 
 ## Overview of Project
 
----
-
   ### Purpose
   This analysis was created to look at and compare different campaigns based on their funding goals and launch dates.
   With this information, it could be determined what the ideal goal to set would be and roughly when to launch the project
