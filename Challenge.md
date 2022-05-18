@@ -26,7 +26,7 @@
   and having a successful project. The percentage that failed also went up as the goal got higher, which is a direct
   correlation between success and goals. 
   
-  One interesting thing to look at is the percentage of successful projects inm the $35,000 - $44,999 range, it's curious 
+  One interesting thing to look at is the percentage of successful projects in the $35,000 - $44,999 range, it's curious 
   as to why that range had a higher success rate than the ranges before. 
 
   ### Challenges and Difficulties Encountered
@@ -56,4 +56,9 @@
 
   - What are some limitations of this dataset?
 
+    The dataset was quite useful and ideal for the situation. 
+
   - What are some other possible tables and/or graphs that we could create?
+
+    I believe a treemap based on subcategories would be a good way to look at this data. Also a table based on success 
+    by subcategory based on country would be good to see whether a certain region of the world liked certain types of plays     more than another. 
