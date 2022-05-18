@@ -42,8 +42,7 @@
 
   - What are two conclusions you can draw about the Outcomes based on Launch Date?
   
-  It would be ideal to launch a play oriented kickstarter project in the middle of the year, so may through august for the 
-  most succes
+    It would be ideal to launch a play oriented kickstarter project in the middle of the year, so may through august for       the most success.
   
   Also it seems that December is the least ideal month to launch a Play oriented kickstarter, possibly due to the fact
   that alot of people have money to spend in other places and are less willing to give money during that time of the year. 
